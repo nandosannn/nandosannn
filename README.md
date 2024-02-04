@@ -1,7 +1,7 @@
 ### Olá, sou o Fernando!! 👋
 
 
-- 🔭 Hoje trabalho com Java para web
+- 🔭 Tenho o objetivo de ser um desenvolvedor Java
 - 📫 Estudando Java e Javascript
 - 😄 Pronouns: ele/dele
 
