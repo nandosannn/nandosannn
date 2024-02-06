@@ -2,6 +2,6 @@
 
 
 - 🔭 Tenho o objetivo de ser um desenvolvedor Java
-- 📫 Estudando Java e Javascript
+- 📫 Estudando Java, Spring Boot e Javascript
 - 😄 Pronouns: ele/dele
 
